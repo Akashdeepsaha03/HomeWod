@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-homewod-dev-74956-authRole",
+      "UnauthRoleArn": "arn:aws:iam::289562772488:role/amplify-homewod-dev-74956-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::289562772488:role/amplify-homewod-dev-74956-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-homewod-dev-74956-deployment",
+      "UnauthRoleName": "amplify-homewod-dev-74956-unauthRole",
+      "StackName": "amplify-homewod-dev-74956",
+      "StackId": "arn:aws:cloudformation:us-west-1:289562772488:stack/amplify-homewod-dev-74956/bd6fdfb0-a56c-11ed-810d-02453536ad13",
+      "AmplifyAppId": "d77wf0ybavw9u"
+    },
+    "categories": {
+      "auth": {
+        "homewod48e102f0": {}
+      }
+    }
+  }
+}
